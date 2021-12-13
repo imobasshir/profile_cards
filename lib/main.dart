@@ -11,6 +11,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        appBar: AppBar(
+          title: Text('Profile Card'),
+        ),
         // backgroundColor: Colors.white,
         body: SafeArea(
           child: Column(
