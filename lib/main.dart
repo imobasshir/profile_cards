@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Profile Card'),
+          backgroundColor: Colors.green.shade200,
         ),
         // backgroundColor: Colors.white,
         body: SafeArea(
