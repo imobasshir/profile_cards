@@ -11,10 +11,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(
-          title: Text('Profile Card'),
-          backgroundColor: Colors.green.shade200,
-        ),
+        // appBar: AppBar(
+        //   title: Text('Profile Card'),
+        //   backgroundColor: Colors.green.shade200,
+        // ),
         // backgroundColor: Colors.white,
         body: SafeArea(
           child: Column(
