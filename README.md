@@ -1,3 +1,3 @@
 # profile_card
 
-A new Flutter project on `profile card`.
+A new basic Flutter project on `profile card`
